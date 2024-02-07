@@ -20,7 +20,7 @@
 </div>
 
  Fiz uma mudança de carreira, onde venho de programação de máquinas de usinagens CNC. 
- Me encontrei Apaixonado pela Por linguagens de Progração, e atualmente  busco uma oportunidade de Trabalho para o desenvolvimento Front-end ou back-end.
+ Me encontrei Apaixonado pela Por linguagens de Programação, e atualmente  busco uma oportunidade de Trabalho para o desenvolvimento Front-end ou back-end.
 
 
 ### Meus videos
