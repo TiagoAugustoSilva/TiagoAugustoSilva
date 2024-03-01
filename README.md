@@ -25,7 +25,7 @@
 
 ### Meus videos
 -[Criando Crud - PHP + MYSQL + BOOSTRAP](https://www.youtube.com/watch?v=TlZ5RskORoM)<br/>
--[APP entrega de trabalho da faculdade - HTML5 + BOOSTRAP + JAVASCRIPT](https://www.youtube.com/watch?v=hB2yMBd7PGU)
+-[APP entrega de trabalho da faculdade - HTML5 + BOOSTRAP + JAVASCRIPT](https://www.youtube.com/watch?v=hB2yMBd7PGU)<br/>
 -[Sobre Mim, lading page em HTML e CSS](https://www.youtube.com/watch?v=uhE_oOUstfI)
 
 
