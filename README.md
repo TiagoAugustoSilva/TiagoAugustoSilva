@@ -18,8 +18,8 @@
 
 </div>
 
- Fiz transição de carreira, e me encontrei Apaixonado pela Por Tecnologia, e atualmente Sou estagiário na seção de Sistemas na Prefeitura de Sorocaba atuando como Analista de  sistemas estagiário. Busco por oportunidade 
- de Trabalho para o desenvolvimento Front-end ou back-end.
+ Fiz transição de carreira, e me encontrei apaixonado pela por Tecnologia, e atualmente Sou estagiário na seção de Sistemas na Prefeitura de Sorocaba atuando como Analista de  sistemas estagiário. Busco por oportunidade 
+ de Trabalho na área de desenvolvimento Front-end e back-end.
  
 
 
