@@ -18,8 +18,9 @@
 
 </div>
 
- Fiz uma mudança de carreira, onde venho de programação de máquinas de usinagens CNC. 
- Me encontrei Apaixonado pela Por linguagens de Programação, e atualmente  busco uma oportunidade de Trabalho para o desenvolvimento Front-end ou back-end.
+ Fiz transição de carreira, e me encontrei Apaixonado pela Por Tecnologia, e atualmente Sou estagiário na seção de Sistemas na Prefeitura de Sorocaba atuando como Analista de  sistemas estagiário. Busco por oportunidade 
+ de Trabalho para o desenvolvimento Front-end ou back-end.
+ 
 
 
 ### Meus videos
