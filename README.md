@@ -24,10 +24,10 @@
 
 
 ### Meus videos
--[SUNPLACE- Aplicação Web  trabalho de 3° Semestre da faculdade](https://www.youtube.com/watch?v=ni4y1JIhsUg&feature=youtu.be)<br/>
--[Sobre Mim, lading page em HTML e CSS](https://www.youtube.com/watch?v=tZr21kZ7IFE)<br/>
--[Criando Crud - PHP + MYSQL + BOOSTRAP](https://www.youtube.com/watch?v=TlZ5RskORoM)<br/>
--[APP entrega de trabalho da faculdade - HTML5 + BOOSTRAP + JAVASCRIPT](https://www.youtube.com/watch?v=hB2yMBd7PGU)<br/>
+-[SUNPLACE- Aplicação Web  trabalho de 3° Semestre da faculdade](https://www.youtube.com/watch?v=ni4y1JIhsUg&feature=youtu.be){:target="_blank"}<br/>
+-[Sobre Mim, lading page em HTML e CSS](https://www.youtube.com/watch?v=tZr21kZ7IFE){:target="_blank"}<br/>
+-[Criando Crud - PHP + MYSQL + BOOSTRAP](https://www.youtube.com/watch?v=TlZ5RskORoM){:target="_blank"}<br/>
+-[APP entrega de trabalho da faculdade - HTML5 + BOOSTRAP + JAVASCRIPT](https://www.youtube.com/watch?v=hB2yMBd7PGU){:target="_blank"}<br/>
 
 
 
