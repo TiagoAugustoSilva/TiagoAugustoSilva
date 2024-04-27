@@ -29,13 +29,6 @@
 -[Criando Crud - PHP + MYSQL + BOOSTRAP](https://www.youtube.com/watch?v=TlZ5RskORoM)<br/>
 -[APP entrega de trabalho da faculdade - HTML5 + BOOSTRAP + JAVASCRIPT](https://www.youtube.com/watch?v=hB2yMBd7PGU)<br/>
 
-### Meus vídeos
-<ul>
-    <li><a href="https://www.youtube.com/watch?v=ni4y1JIhsUg&feature=youtu.be" target="_blank">SUNPLACE- Aplicação Web trabalho de 3° Semestre da faculdade</a></li>
-    <li><a href="https://www.youtube.com/watch?v=tZr21kZ7IFE" target="_blank">Sobre Mim, landing page em HTML e CSS</a></li>
-    <li><a href="https://www.youtube.com/watch?v=TlZ5RskORoM" target="_blank">Criando Crud - PHP + MYSQL + BOOSTRAP</a></li>
-    <li><a href="https://www.youtube.com/watch?v=hB2yMBd7PGU" target="_blank">APP entrega de trabalho da faculdade - HTML5 + BOOSTRAP + JAVASCRIPT</a></li>
-</ul>
 
 
 
