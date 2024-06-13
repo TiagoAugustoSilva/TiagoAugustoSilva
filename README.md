@@ -14,11 +14,15 @@
   
    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
      <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-          <img align="center" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white"/>
+          <img align="center" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white"/><br/>
             <img align="center" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white"/>
             <img align="center" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white"/>
               <img align="center" src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon-RDS&logoColor=white"/>
-                <img align="center" src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white"/>
+                <img align="center" src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white"/><br/>
+                <img align="center" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
+                 <img align="center" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+                    <img align="center" src="https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white"/>
+                       <img align="center" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
      
 
 
